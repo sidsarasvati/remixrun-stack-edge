@@ -1,3 +1,7 @@
+# Remix Edge Stack 
+- Clouldflare Page, Typescript and Tailwind
+- create new remix project with 
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
