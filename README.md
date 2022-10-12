@@ -1,6 +1,6 @@
 # Remix Edge Stack 
 - Clouldflare Page, Typescript and Tailwind
-- create new remix project with 
+- create new remix project with `npx create-remix --template sidsarasvati/remixrun-stack-edge` and follow the prompt
 
 # Welcome to Remix!
 
